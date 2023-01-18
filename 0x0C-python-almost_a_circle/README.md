@@ -1,11 +1,25 @@
-# 0x0C-python-almost_a_circle
+# 0x0C-python-almost_a_circle :book:
 
-- tests - Folder contains unittest for the project Tasks
+## Description :headphones:
 
-- models - Folder contains project task files
+Python project that puts together everything that we have learned in Python up to this point.
 
-- [base.py](./base.py) - base of other classes
+## Mandatory Tasks :station:
 
-- [rectangle.py](./rectangle.py) - The rectangle class 
+| Files/Folder | Description |
+| ------------ | ----------- |
+| models | Folder containing all the work for the project |
+| \_\_init\_\_.py | Makes the directory a package |
+| base.py | Class `Base` that all other classes inherit from |
+| rectangle.py | Class `Rectangle` that inherits from class `Base` |
+| square.py | Class `Square` that inherits from class `Rectangle` |
+| tests | Folder containing all the unittests for the project |
+| \_\_init\_\_.py | Makes the directory a package |
+| test_base.py | All the unittests for class `Base` |
+| test_rectangle.py | All the unittests for class `Rectangle` |
+| test_square.py | All the unittests for class `Square` |
 
-- [square.py](/square.py) - The square class
+
+## Author :octocat:
+
+[Martins Ojo](https://www.linkedin.com/in/martins-ojo/) | [GitHub](https://github.com/MartinScript)
