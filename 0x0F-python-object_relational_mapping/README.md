@@ -158,5 +158,5 @@ query, create, edit, and delete tables in MySQL.
   `hbtn_0e_101_usa`.
   * Usage: `./102-relationship_cities_states_list.py <mysql username>
   <mysql password> <database name>`.
-  * Uses the `state` relationship to access the `State` objects linked to `City` objects.
+  * Uses the `state` relationship to access the `State` objects linked to `City` objects............
   * Results are sorted by ascending `cities.id`.
